@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="marks" type="id"></item>
+    <item name="LinearLayout1" type="id"></item>
+    <item name="roll_no" type="id"></item>
+    <item name="name" type="id"></item>
+    <item name="emarks" type="id"></item>
+    <item name="addbtn" type="id"></item>
+    <item name="deletebtn" type="id"></item>
+    <item name="modifybtn" type="id"></item>
+    <item name="viewbtn" type="id"></item>
+    <item name="viewallbtn" type="id"></item>
+    <item name="showbtn" type="id"></item>
+</resources>
